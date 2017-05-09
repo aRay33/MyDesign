@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/anim/abc_slide_out_top.xml"
+    }
+]

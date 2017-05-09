@@ -57,7 +57,8 @@ public class FontProvider {
             //noinspection Java8CollectionsApi
             if (typefaces.get(typefaceName) == null) {
                 typefaces.put(typefaceName,
-                        Typeface.createFromAsset(resources.getAssets(), "fonts/" + fontNameToTypefaceFile.get(typefaceName)));
+                        Typeface.createFromAsset(resources.getAssets(), "fonts/" +
+                                fontNameToTypefaceFile.get(typefaceName)));
             }
             return typefaces.get(typefaceName);
         }

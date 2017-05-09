@@ -1,10 +1,19 @@
 <resources>
-    <string name="app_name">Motion Views</string>
-    <string name="add_sticker">Add Sticker</string>
-    <string name="add_text">Add Text</string>
+    <string name="app_name">DesignKita</string>
+    <string name="add_sticker">Tambah Sticker</string>
+    <string name="add_text">Tambah Teks</string>
 
-    <string name="select_color">Select color</string>
+    <string name="select_color">Pilih Warna</string>
     <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="select_font">Select font</string>
+    <string name="cancel">Batal</string>
+    <string name="select_font">Pilih Font</string>
+
+    <string name="action_text_text">TEKS</string>
+    <string name="action_image_text">GAMBAR</string>
+    <string name="action_area_text">AREA</string>
+    <string name="action_classic_text">KLASIK</string>
+    <string name="action_modern_text">MODERN</string>
+    <string name="finish_design_text">FINISH</string>
+    <string name="add_delete">Delete</string>
+    <string name="add_finsih">Finish</string>
 </resources>

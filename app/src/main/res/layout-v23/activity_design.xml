@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="team.uptech.motionviews.ui.DesignActivity">
+
+
+    <team.uptech.motionviews.widget.MotionView
+        android:id="@+id/main_motion_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        <LinearLayout
+            android:id="@+id/main_motion_text_entity_edit_panel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/main_motion_view"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/text_entity_font_size_decrease"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/ic_neg_1" />
+
+            <ImageButton
+                android:id="@+id/text_entity_font_size_increase"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/ic_plus_1" />
+
+            <ImageButton
+                android:id="@+id/text_entity_color_change"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/ic_format_color_text" />
+
+            <ImageButton
+                android:id="@+id/text_entity_font_change"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/ic_text_fields" />
+
+            <ImageButton
+                android:id="@+id/text_entity_edit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/ic_mode_edit" />
+
+        </LinearLayout>
+    </team.uptech.motionviews.widget.MotionView>
+
+    <com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
+        android:id="@+id/bnve"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_gravity="start"
+        android:background="@color/colorPrimary"
+        app:itemIconTint="@drawable/nav_item_color_state"
+        app:itemTextColor="@drawable/nav_item_color_state"
+        app:menu="@menu/menu_bottom_navigation" />
+
+</RelativeLayout>

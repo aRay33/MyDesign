@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="item_menu_navigation" parent="Widget.Design.BottomNavigationView">
+        <item name="android:textSize">9sp</item>
+        <item name="android:selectableItemBackground">@color/colorPrimaryDark</item>
+        <item name="android:drawable">@drawable/nav_item_color_state</item>
+    </style>
+
 </resources>
+
+

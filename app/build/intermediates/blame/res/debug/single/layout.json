@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/home/rythm/AndroidStudioProjects/Design Kita/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/color_selector.xml",
+        "source": "/home/rythm/.android/build-cache/59331a75500bf3aa83e0743ff2b7e1e39f2924dd/output/res/layout/color_selector.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/sticker_item.xml",
+        "source": "/home/rythm/AndroidStudioProjects/Design Kita/app/src/main/res/layout/sticker_item.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/select_sticker_activity.xml",
+        "source": "/home/rythm/AndroidStudioProjects/Design Kita/app/src/main/res/layout/select_sticker_activity.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/color_preview.xml",
+        "source": "/home/rythm/.android/build-cache/59331a75500bf3aa83e0743ff2b7e1e39f2924dd/output/res/layout/color_preview.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/text_editor_layout.xml",
+        "source": "/home/rythm/AndroidStudioProjects/Design Kita/app/src/main/res/layout/text_editor_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/color_widget.xml",
+        "source": "/home/rythm/.android/build-cache/59331a75500bf3aa83e0743ff2b7e1e39f2924dd/output/res/layout/color_widget.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/rythm/AndroidStudioProjects/Design Kita/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/picker_edit.xml",
+        "source": "/home/rythm/.android/build-cache/59331a75500bf3aa83e0743ff2b7e1e39f2924dd/output/res/layout/picker_edit.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/rythm/.android/build-cache/c7d56d3002c0bc062de20eff319ffb3ab9e9bb4e/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/rythm/AndroidStudioProjects/Design Kita/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/rythm/.android/build-cache/6323ceb2330eac5b24d02cac82f5dfa5e4bbba2e/output/res/layout/abc_alert_dialog_title_material.xml"
+    }
+]

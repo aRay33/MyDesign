@@ -34,7 +34,10 @@ import team.uptech.motionviews.widget.entity.MotionEntity;
 
 public class MotionView  extends FrameLayout {
 
+    private Context context;
     private static final String TAG = MotionView.class.getSimpleName();
+
+
 
     public interface Constants {
         float SELECTED_LAYER_ALPHA = 0.15F;

@@ -75,7 +75,7 @@ public class StickerSelectActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.select_sticker_activity);
 
-        //noinspection ConstantConditions
+        //noinspection ConstantCondition
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.stickers_recycler_view);
@@ -99,7 +99,7 @@ public class StickerSelectActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void onStickerSelected(int stickerId) {
+    public void onStickerSelected(int stickerId) {
         Intent intent = new Intent();
         intent.putExtra(EXTRA_STICKER_ID, stickerId);
         setResult(RESULT_OK, intent);
